@@ -1,5 +1,7 @@
 # Dateline
 
+*[Norsk versjon](README.no.md)*
+
 For any date, Dateline shows the most important event that happened on that day in history, with every other year that shares the date laid out beneath it.
 
 **Live:** https://andersbjorkh.github.io/dateline/
